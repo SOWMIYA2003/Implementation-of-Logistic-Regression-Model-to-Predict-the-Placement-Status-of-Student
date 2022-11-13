@@ -85,19 +85,19 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![op](./93.png)
 ### After applying LabelEncoder :
 ![op](./94.png)
-### x :
+### Print data :
 ![op](./95.png)
-### y :
+### Data Status :
 ![op](./96.png)
-### y_pred :
+### y_prediction value :
 ![op](./97.png)
-### accuracy :
+### Accuracy Value:
 ![op](./98.png)
-### confusion :
+### Confusion Array:
 ![op](./99.png)
-### classification_report1 :
+### Classification_report1 :
 ![op](./910.png)
-
-
+### Prediction of LR :
+![op](./m8.png)
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
